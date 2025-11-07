@@ -10,7 +10,8 @@
 
 ### 🔹 Frontend
 - **Vite + TypeScript**
-- **TailwindCSS** (with dark/light mode)
+- **TailwindCSS** (with dark/light mode)<img width="1485" height="786" alt="Screenshot 2025-11-08 025442" src="https://github.com/user-attachments/assets/42a81b7c-29b0-4a66-a76a-1ae26d898f9a" />
+
 - **Chart.js** for analytics visualization
 - **Responsive UI** with transitions and animations
 
